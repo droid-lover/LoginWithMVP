@@ -35,5 +35,5 @@ so Two Things will be there VIEW and PRESENTER , and to achieve MVP .. . . we ne
 The View (Activity or Fragment) is responsible for: -> Instantianting the presenter -> Informing the presenter of lifecycle events -> Informing the PRESENTER of input events -> Laying out the views and binding data to them -> Animations -> Event Tracking and Navigation to other screens.
 
 The Presenter is responsible for: -> Loading Models loading data into models -> Keeping a reference to the model , and the state of the view -> Formatting what should be displayed and instructing the view to display it -> Interacting with database and network -> Deciding the Action to take , when input events are reveived .
--sachin 
-:-) happyCoding :-) 
+   -sachin 
+   :-) happyCoding :-) 
