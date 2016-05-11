@@ -1,8 +1,5 @@
 # Login-With-MVP-
 
-MVP
-
-Lets talk about MVP
 
 First question what i thought is why we need any architecture pattern to design any project ,.. we know how to create a project and why we need any other thing called patterns for app ....
 
