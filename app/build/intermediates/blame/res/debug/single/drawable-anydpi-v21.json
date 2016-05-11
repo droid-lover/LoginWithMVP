@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android Studio Projects\\git apps\\LoginWithMVP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_eye_strike.xml",
+        "source": "D:\\Android Studio Projects\\git apps\\LoginWithMVP\\app\\build\\intermediates\\exploded-aar\\com.xwray\\passwordview\\0.1\\res\\drawable-anydpi-v21\\ic_eye_strike.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Projects\\git apps\\LoginWithMVP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_eye.xml",
+        "source": "D:\\Android Studio Projects\\git apps\\LoginWithMVP\\app\\build\\intermediates\\exploded-aar\\com.xwray\\passwordview\\0.1\\res\\drawable-anydpi-v21\\ic_eye.xml"
+    }
+]

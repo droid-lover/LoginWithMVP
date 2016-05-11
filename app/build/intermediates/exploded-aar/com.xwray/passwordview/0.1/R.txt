@@ -1,0 +1,5 @@
+int attr useStrikeThrough 0x7f010000
+int drawable ic_eye 0x7f020000
+int drawable ic_eye_strike 0x7f020001
+int[] styleable PasswordView { 0x7f010000 }
+int styleable PasswordView_useStrikeThrough 0

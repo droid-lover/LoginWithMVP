@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Studio Projects\git apps\LoginWithMVP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4c575997795fd3e29345838b793a3f1c7b86682d">
+        <dex dex="D:\Android Studio Projects\git apps\LoginWithMVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_174a2f6b3aad45ae0c8870e48174d2527dbd7ed1\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PasswordView"><attr format="boolean" name="useStrikeThrough"/></declare-styleable>
+</resources>
